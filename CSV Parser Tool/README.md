@@ -12,4 +12,4 @@ This project is a **bash script** designed to manage and interact with a CSV-bas
 1. Ensure that the script and your contact list (CSV file) are in the same directory.
 2. Run the script, passing your CSV file as an argument:
    ```bash
-   ./ScriptEsame2.sh contacts.csv
+   ./csvparsertool.sh file.csv
